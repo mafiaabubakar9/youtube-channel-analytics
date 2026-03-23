@@ -28,5 +28,5 @@ retention trends using Microsoft Excel.
   to revive with new content strategy
 ![Dashboard](dashboard_screenshot.png)
 ## Files in This Repository
-- `YouTube_Analytics.xlsx` — full workbook with 4 sheets
+- `Youtube_Analysis.xlsx` — full workbook with 4 sheets
 - `dashboard_screenshot.png` — visual overview of findings
